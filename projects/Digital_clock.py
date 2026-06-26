@@ -51,6 +51,4 @@ def update_label():
     clock_label.after(80, update_label)
 
     # UI Bug
-    clock_label.pack(anchor="center")
-    updat.
-
+    clock_label.pack
