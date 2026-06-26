@@ -52,4 +52,5 @@ def update_label():
 
     # UI Bug
     clock_label.pack(anchor="center")
+    update 
 
